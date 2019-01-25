@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Sternenhimmel</string>
+
+    <string name="element_01">WIDDER</string>
+    <string name="element_02">STIER</string>
+    <string name="element_03">ZWILLING</string>
+    <string name="element_04">KREBS</string>
+    <string name="element_05">LÖWE</string>
+    <string name="element_06">JUNGFRAU</string>
+    <string name="element_07">WAAGE</string>
+    <string name="element_08">SKORPION</string>
+    <string name="element_09">SCHÜTZE</string>
+    <string name="element_10">STEINBOCK</string>
+    <string name="element_11">WASSERMANN</string>
+    <string name="element_12">FISCHE</string>
+
+    <string name="element_13">GROSSER BÄR</string>
+    <string name="element_14">KLEINER BÄR</string>
+    <string name="element_15">BOOTES (BÄRENHÜTER)</string>
+    <string name="element_16">ANDROMEDA</string>
+    <string name="element_17">KASSIOPEJA</string>
+    <string name="element_18">PERSEUS</string>
+    <string name="element_19">PEGASUS</string>
+    <string name="element_20">KEPHEUS</string>
+    <string name="element_21">KETOS (WALFISCH)</string>
+    <string name="element_22">NÖRDLICHE KRONE</string>
+    <string name="element_23">DRACHE</string>
+    <string name="element_24">HERAKLES</string>
+    <string name="element_25">SCHLANGE + SCHLANGENTRÄGER</string>
+    <string name="element_26">AURIGA</string>
+    <string name="element_27">ORION</string>
+    <string name="element_28">GROSSER HUND</string>
+    <string name="element_29">PFEIL</string>
+    <string name="element_30">ADLER</string>
+    <string name="element_31">LYRA</string>
+    <string name="element_32">SCHWAN</string>
+
+    <string name="element_33">BERENIKE</string>
+    <string name="element_34">DELPHIN</string>
+    <string name="element_35">ERIDANUS</string>
+    <string name="element_36">RABE</string>
+    <string name="element_37">BECHER</string>
+    <string name="element_38">HYDRA</string>
+    <string name="element_39">DREIECK</string>
+    <string name="element_40">KONJUNKTION (VERLAUF)</string>
+
+</resources>

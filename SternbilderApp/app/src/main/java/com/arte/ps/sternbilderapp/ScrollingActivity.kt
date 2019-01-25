@@ -10,7 +10,7 @@ import android.widget.Button
 import android.widget.Toast
 import okhttp3.*
 
-import java.io.IOException;
+import java.io.IOException
 import java.lang.Exception
 import java.util.concurrent.TimeUnit
 
@@ -24,7 +24,6 @@ class ScrollingActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_scrolling)
         setSupportActionBar(toolbar)
-
 
         fun run(number: String) {
             //Toast.makeText(this@ScrollingActivity, "API request: " + number, Toast.LENGTH_SHORT).show()
