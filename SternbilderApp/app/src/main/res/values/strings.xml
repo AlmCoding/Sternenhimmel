@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">SternbilderApp</string>
+
+    <string name="element_01">WASSERMANN</string>
+    <string name="element_02">STEINBOCK</string>
+    <string name="element_03">SCHÜTZE</string>
+    <string name="element_04">ADLER</string>
+    <string name="element_05">M11</string>
+    <string name="element_06">M22</string>
+    <string name="element_07">SCHILD</string>
+    <string name="element_08">SCHLANGE</string>
+    <string name="element_09">SCHLANGENTRÄGER</string>
+    <string name="element_10">SKORPION</string>
+    <string name="element_11">WAAGE</string>
+    <string name="element_12">HYDRA</string>
+    <string name="element_13">FÜLLEN</string>
+    <string name="element_14">DELPHIN</string>
+    <string name="element_15">PFEIL</string>
+    <string name="element_16">FUCHS</string>
+    <string name="element_17">LYRA</string>
+    <string name="element_18">HERAKLES</string>
+    <string name="element_19">NÖRDLICHE KRONE</string>
+    <string name="element_20">JAGDHUND</string>
+    <string name="element_21">BOTES</string>
+    <string name="element_22">M5+M13</string>
+    <string name="element_23">JUNGFRAU</string>
+    <string name="element_24">PEGASUS</string>
+    <string name="element_25">EIDECHSE</string>
+    <string name="element_26">ANDROMEDANEBEL</string>
+    <string name="element_27">SCHWAN</string>
+    <string name="element_28">KEPHEUS</string>
+    <string name="element_29">DRACHE</string>
+    <string name="element_30">KLEINER BÄR</string>
+    <string name="element_31">MIZAR/ALKOR</string>
+    <string name="element_32">GROSSER BÄR</string>
+    <string name="element_33">M3</string>
+    <string name="element_34">HAAR DER BERENIKE</string>
+    <string name="element_35">ANDROMEDA</string>
+    <string name="element_36">KASSIOPEJA</string>
+    <string name="element_37">PERSUS</string>
+    <string name="element_38">GIRAFFE</string>
+    <string name="element_39">POLARSTERN</string>
+    <string name="element_40">LUCHS</string>
+
+    <string name="element_41">KLEINER LÖWE</string>
+    <string name="element_42">LÖWE</string>
+    <string name="element_43">BECHER</string>
+    <string name="element_44">WIDDER</string>
+    <string name="element_45">DREIECK</string>
+    <string name="element_46">WALFISCH</string>
+    <string name="element_47">STIER</string>
+    <string name="element_48">PLEJADEN</string>
+    <string name="element_49">AURIGA</string>
+
+    <string name="element_51">ZWILLINGE</string>
+    <string name="element_52">KLEINER HUND</string>
+    <string name="element_53">KREBS</string>
+    <string name="element_54">M44 PRAESEPE</string>
+    <string name="element_55">MIRA</string>
+    <string name="element_56">FORNAX</string>
+    <string name="element_57">ERIDANUS</string>
+    <string name="element_58">ORION</string>
+    <string name="element_59">HASE</string>
+    <string name="element_60">M42 ORIONNEBEL</string>
+    <string name="element_61">TAUBE</string>
+    <string name="element_62">GROSSER HUND</string>
+    <string name="element_63">SIRIUS</string>
+    <string name="element_64">EINHORN</string>
+    <string name="element_65">NGC2244+NGC2262</string>
+    <string name="element_66">ACHTERDECK</string>
+    <string name="element_67">SÜDLICHER FISCH</string>
+    <string name="element_68">MIKROSKOP</string>
+    <string name="element_69">M16 ADLERNEBEL</string>
+    <string name="element_70">M17/M8</string>
+    <string name="element_71">M6</string>
+    <string name="element_72">KONJUNCTION 7V.CHR.</string>
+
+    <string name="element_76">FISCHE</string>
+    <string name="element_77">KOMPASS</string>
+    <string name="element_78">SEXTANT</string>
+    <string name="element_79">LUFTPUMPE</string>
+    <string name="element_80">RABE</string>
+    <string name="element_81">SOMMERDREIECK</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
